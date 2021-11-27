@@ -1,1 +1,1 @@
-web: pip install . -U && new_proj-run
+web: pip install . -U && new_proj
