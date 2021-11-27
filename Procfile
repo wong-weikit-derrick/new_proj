@@ -1,0 +1,1 @@
+web: pip install . -U && new_proj-run
